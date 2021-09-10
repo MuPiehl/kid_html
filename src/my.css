@@ -14,3 +14,19 @@ font-family: arial;
 b{
 color: #21ffaa;
 }
+div{
+  float: left;
+}
+div#grau{
+  position: relative;
+  left: 30%;
+  height: 200px;
+  width: 50%;
+background-color: #bbbbbb;
+}
+div#gruen{
+    left:30px;
+  height: 200px;
+  width: 25%;
+background-color: #bbffbb;
+}
